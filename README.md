@@ -35,7 +35,7 @@
 - Пишем по порядку:
 	- cd
 	- pkg install -y git
-	- git clone https://github.com/monosans/vk-slaves-bot
+	- git clone https://github.com/Kreont1/slavebot
 	- sh vk-slaves-bot/termux.sh
 - Редактируем файл **config.json** или перекидываем с компьютера имеющийся. О том, как сделать это, можете почитать в интернете.
 
