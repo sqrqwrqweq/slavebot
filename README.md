@@ -6,7 +6,7 @@
 ## Установка на Windows
 
 - Устанавливаем [Python](https://www.python.org/downloads/windows). Во время установки ставим галочку **Add Python to PATH (Добавить Python в PATH)**
-- [Скачиваем архив с ботом](https://github.com/monosans/vk-slaves-bot/archive/refs/heads/main.zip).
+- [Скачиваем архив с ботом](https://github.com/Kreont1/slavebot/archive/refs/heads/main.zip).
 - Распаковываем архив.
 - Редактируем файл **config.json**:
 	- authorization:
